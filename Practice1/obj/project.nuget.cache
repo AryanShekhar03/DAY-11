@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtKPyF6yZYbdktwWFwWHOx5bDyJHUsj86tq3dFaOL07RUW76bo/I4Ua/HUoCb376d+d+JYCiG+jVGqDp32g+Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shivam Shekhar\\source\\DAY 11-12\\Practice1\\Practice1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

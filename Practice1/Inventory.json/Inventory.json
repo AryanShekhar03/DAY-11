@@ -1,0 +1,12 @@
+{"Rice":
+[{"name":"Basmati","weight":"1","price":"220"},
+{"name":"Bullet","weight":"2","price":"320"}],
+
+"Pulses":
+[{"name":"Greengram","weight":"3","price":"120"},
+{"name":"Horsegram","weight":"1","price":"200"}],
+
+"Wheat":
+[{"name":"Agra","weight":"4","price":"210"},
+{"name":"taj","weight":"8","price":"780"}]
+}
